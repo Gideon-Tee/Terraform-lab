@@ -1,0 +1,10 @@
+region             = "eu-west-1"     # AWS region
+environment        = "eks-app"       # Environment name
+vpc_cidr           = "10.1.0.0/16"   # VPC CIDR block
+cluster_name       = "eks-demo"      # EKS cluster name
+kubernetes_version = "1.32"          # Kubernetes version
+instance_type      = "t2.micro"      # Node instance type
+desired_size       = 1               # Desired node count
+max_size           = 2               # Maximum node count
+min_size           = 1               # Minimum node count
+docker_image       = "gideontee/dwom:latest"
