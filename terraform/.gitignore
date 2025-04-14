@@ -6,3 +6,5 @@
 *.out
 *.plan
 *.plan.json
+terraform.tfvars
+.idea
