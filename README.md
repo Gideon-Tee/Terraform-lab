@@ -8,13 +8,21 @@ This repository contains two main components:
 
 .
 ├── Prometheus-Grafana
+
 │   ├── dashboard-images
+
 │   ├── docker-compose.yml
+
 │   ├── prometheus-grafana.png
+
 │   ├── prometheus.yml
+
 │   └── README.md
+
 └── terraform
+
     ├── ec2-deployment
+    
     └── eks-deployment
 
 
