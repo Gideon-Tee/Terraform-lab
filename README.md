@@ -21,9 +21,9 @@ This repository contains two main components:
 
 └── terraform
 
-    ├── ec2-deployment
-    
-    └── eks-deployment
+|    ├── ec2-deployment 
+
+|    └── eks-deployment
 
 
 ---
